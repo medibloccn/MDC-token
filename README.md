@@ -1,2 +1,1 @@
-# MDC-token
-MDC token
+# crowd-sale
